@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/yvasiyarov/gorelic"
+	"github.com/zalora/gorelic"
 )
 
 var newrelicLicense = flag.String("newrelic-license", "", "Newrelic license")

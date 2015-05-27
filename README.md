@@ -1,3 +1,8 @@
+# Zalora GoRelic
+
+This is a fork from [Gorelic](https://github.com/yvasiyarov/gorelic). Used the build customizable Newrelic plugin fit for Zalora
+
+
 # GoRelic
 
 New Relic agent for Go runtime. It collect a lot of metrics about scheduler, garbage collector and memory allocator and 

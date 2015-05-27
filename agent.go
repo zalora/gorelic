@@ -27,10 +27,10 @@ const (
 
 	//DefaultAgentGuid is plugin ID in NewRelic.
 	//You should not change it unless you want to create your own plugin.
-	DefaultAgentGuid = "com.github.yvasiyarov.GoRelic"
+	DefaultAgentGuid = "com.github.zalora.ZaloraGo"
 
 	//CurrentAgentVersion is plugin version
-	CurrentAgentVersion = "0.0.6"
+	CurrentAgentVersion = "0.0.1"
 
 	//DefaultAgentName in NewRelic GUI. You can change it.
 	DefaultAgentName = "Go daemon"
