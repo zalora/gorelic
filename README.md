@@ -1,6 +1,6 @@
 # Zalora GoRelic
 
-This is a fork from [Gorelic](https://github.com/yvasiyarov/gorelic). Used the build customizable Newrelic plugin fit for Zalora
+This is a fork from [Gorelic](https://github.com/yvasiyarov/gorelic). Used to build the customizable Newrelic plugin that fit for Zalora
 
 
 # GoRelic
