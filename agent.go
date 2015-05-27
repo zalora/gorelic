@@ -27,7 +27,7 @@ const (
 
 	//DefaultAgentGuid is plugin ID in NewRelic.
 	//You should not change it unless you want to create your own plugin.
-	DefaultAgentGuid = "com.github.zalora.ZaloraGo"
+	DefaultAgentGuid = "com.github.zalora.GoZalora"
 
 	//CurrentAgentVersion is plugin version
 	CurrentAgentVersion = "0.0.1"

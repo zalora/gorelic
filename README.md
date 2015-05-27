@@ -2,6 +2,11 @@
 
 This is a fork from [Gorelic](https://github.com/yvasiyarov/gorelic). Used to build the customizable Newrelic plugin that fit for Zalora
 
+## To create a new plugin
+1. Change `DefaultAgentGuid` 
+2. Set up the owner new relic account `NewrelicLicense`
+3. Start a new agent
+4. Edit the plugin UI in Newrelic and publish
 
 # GoRelic
 
